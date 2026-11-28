@@ -12,7 +12,7 @@
 
 [OpenJade](https://github.com/dekamaru/openjade)는 원작 게임 파일을 그대로 읽어 실행하는 '페르시아의 왕자' 3부작 엔진 재구현입니다. 이 팩은 OpenJade에서 '시간의 모래'를 한국어로 즐길 수 있게 해 주는 **언어 팩**입니다. 게임 파일은 건드리지 않고, OpenJade의 `Languages` 폴더에 한국어를 추가합니다.
 
-전사의 길 한글 패치는 [PoPWW-Korean-Patch](https://github.com/slam64/PoPWW-Korean-Patch)에 있습니다.
+같은 방식의 한글 패치: [전사의 길](https://github.com/slam64/PoPWW-Korean-Patch) · [두 개의 왕좌](https://github.com/slam64/PoPT2T-Korean-Patch)
 
 ## 목차
 
@@ -101,7 +101,7 @@
 
 아래 예시는 Steam 라이브러리가 `D:\SteamLibrary`인 경우입니다. 본인 PC의 경로로 바꿔 읽어 주세요.
 
-> 💡 [전사의 길 한글 패치](https://github.com/slam64/PoPWW-Korean-Patch)를 설치하면서 PoP Mod Manager를 이미 쓰고 있다면 2·3단계의 처음 설정은 건너뛰고, 왼쪽 목록에서 **Sands of Time**만 연결하면 됩니다.
+> 💡 [전사의 길](https://github.com/slam64/PoPWW-Korean-Patch)이나 [두 개의 왕좌](https://github.com/slam64/PoPT2T-Korean-Patch) 한글 패치를 설치하면서 PoP Mod Manager를 이미 쓰고 있다면 2·3단계의 처음 설정은 건너뛰고, 왼쪽 목록에서 **Sands of Time**만 연결하면 됩니다.
 
 ### 1단계. Steam에서 게임 설치
 
